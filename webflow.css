@@ -10350,7 +10350,7 @@ figcaption {
 }
 
 .section-marketing-02 .marketing-content-container {
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   box-sizing: border-box;
 }
