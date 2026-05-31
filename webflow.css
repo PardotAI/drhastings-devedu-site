@@ -3641,7 +3641,7 @@ figcaption {
 }
 
 .container-large.marketing {
-  max-width: 64rem;
+  max-width: 100%;
 }
 
 .max-width-xxlarge {
