@@ -10296,3 +10296,49 @@ figcaption {
 .section-marketing-02 .w-container {
   max-width: 100% !important;
 }
+
+/* Mobile specific overrides for Step 2 */
+@media screen and (max-width: 991px) {
+  .section-marketing-02 .container-large,
+  .section-marketing-02 .w-container,
+  .section-marketing-02 .padding-global {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .section-marketing-02 .marketing-content-grid,
+  .section-marketing-02 .marketing-content-grid.reverse {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .section-marketing-02 .container-large,
+  .section-marketing-02 .w-container,
+  .section-marketing-02 .padding-global {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .section-marketing-02 .marketing-content-grid,
+  .section-marketing-02 .marketing-content-grid.reverse {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .section-marketing-02 .container-large,
+  .section-marketing-02 .w-container,
+  .section-marketing-02 .padding-global {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .section-marketing-02 .marketing-content-grid,
+  .section-marketing-02 .marketing-content-grid.reverse {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
