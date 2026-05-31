@@ -10285,8 +10285,8 @@ figcaption {
 }
 
 .section-marketing-02 .padding-section-large.both-padding-4-rem {
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .w-container {
