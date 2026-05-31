@@ -10271,3 +10271,28 @@ figcaption {
     justify-self: start;
   }
 }
+
+
+/* Custom overrides for full-width Step 2 */
+.section-marketing-02 .container-large {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.section-marketing-02 .padding-global {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.section-marketing-02 .padding-section-large.both-padding-4-rem {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.w-container {
+  max-width: 100% !important;
+}
+
+.section-marketing-02 .w-container {
+  max-width: 100% !important;
+}
